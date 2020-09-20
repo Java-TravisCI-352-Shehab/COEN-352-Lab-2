@@ -14,6 +14,8 @@ public class ComplexityExamples {
     public void example_1(int n)
     {
         int number_of_operations = 1;
+
+
         for (int i = 0; i < n; ++i)
         {
             // Do progress.
